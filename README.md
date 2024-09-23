@@ -2,19 +2,19 @@
 1. **Create the virtual environment:**
 
    ```
-   python3 -m venv venv
+   python3 -m venv .venv
    ```
 
 2. **Activate the virtual environment:**
 
    - **Windows:**
      ```
-     venv\Scripts\activate
+     .venv\Scripts\activate
      ```
 
    - **macOS/Linux:**
      ```
-     source venv/bin/activate
+     source .venv/bin/activate
      ```
 
 3. **Install Dependencies:**
